@@ -1,0 +1,3 @@
+Only gold or platinum tier customers can cancel special items
+Reject cancellation for items marked as 'limited edition
+Don’t allow cancellation if the order status is 'completed'
